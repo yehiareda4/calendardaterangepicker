@@ -1,4 +1,4 @@
-package com.archit.calendardaterangepicker.customviews
+package com.yehia.calendardaterangepicker.customviews
 
 import java.util.Calendar
 

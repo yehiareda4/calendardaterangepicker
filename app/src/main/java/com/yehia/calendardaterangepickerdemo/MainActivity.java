@@ -1,4 +1,4 @@
-package com.archit.calendardaterangepickerdemo;
+package com.yehia.calendardaterangepickerdemo;
 
 import android.graphics.Typeface;
 import android.os.Bundle;
@@ -8,12 +8,12 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.archit.calendardaterangepicker.customviews.CalendarListener;
-import com.archit.calendardaterangepicker.customviews.DateRangeCalendarView;
+import com.yehia.calendardaterangepicker.customviews.CalendarListener;
+import com.yehia.calendardaterangepicker.customviews.DateRangeCalendarView;
 
 import java.util.Calendar;
 
-import static com.archit.calendardaterangepicker.customviews.CalendarRangeUtilsKt.printDate;
+import static com.yehia.calendardaterangepicker.customviews.CalendarRangeUtilsKt.printDate;
 
 public class MainActivity extends AppCompatActivity {
 

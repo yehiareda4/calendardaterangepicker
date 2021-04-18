@@ -1,4 +1,4 @@
-package com.archit.calendardaterangepicker;
+package com.yehia.calendardaterangepicker;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;

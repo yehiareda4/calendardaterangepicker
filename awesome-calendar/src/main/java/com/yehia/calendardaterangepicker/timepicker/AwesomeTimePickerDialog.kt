@@ -1,4 +1,4 @@
-package com.archit.calendardaterangepicker.timepicker
+package com.yehia.calendardaterangepicker.timepicker
 
 import android.app.Dialog
 import android.content.Context
@@ -8,9 +8,9 @@ import android.view.Gravity
 import android.view.Window
 import android.view.WindowManager.LayoutParams
 import android.widget.TimePicker
-import com.archit.calendardaterangepicker.R.id
-import com.archit.calendardaterangepicker.R.layout
-import com.archit.calendardaterangepicker.customviews.CustomTextView
+import com.yehia.calendardaterangepicker.R.id
+import com.yehia.calendardaterangepicker.R.layout
+import com.yehia.calendardaterangepicker.customviews.CustomTextView
 import java.util.Calendar
 
 class AwesomeTimePickerDialog(context: Context, private val mTitle: String, private val onTimeChangedListener: TimePickerCallback) : Dialog(context) {

@@ -1,4 +1,4 @@
-package com.archit.calendardaterangepicker.models
+package com.yehia.calendardaterangepicker.models
 
 import android.graphics.Typeface
 import android.graphics.drawable.Drawable

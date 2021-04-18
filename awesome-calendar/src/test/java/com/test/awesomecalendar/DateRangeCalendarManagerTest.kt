@@ -1,16 +1,16 @@
 package com.test.awesomecalendar
 
-import com.archit.calendardaterangepicker.customviews.CalendarDateRangeManager
-import com.archit.calendardaterangepicker.customviews.CalendarDateRangeManager.DateSelectionState
-import com.archit.calendardaterangepicker.customviews.CalendarDateRangeManagerImpl
-import com.archit.calendardaterangepicker.customviews.InvalidDateException
-import com.archit.calendardaterangepicker.customviews.isDateSame
-import com.archit.calendardaterangepicker.customviews.isMonthSame
-import com.archit.calendardaterangepicker.customviews.printDate
-import com.archit.calendardaterangepicker.models.CalendarStyleAttributes
-import com.archit.calendardaterangepicker.models.CalendarStyleAttributes.DateSelectionMode.FIXED_RANGE
-import com.archit.calendardaterangepicker.models.CalendarStyleAttributes.DateSelectionMode.FREE_RANGE
-import com.archit.calendardaterangepicker.models.CalendarStyleAttributes.DateSelectionMode.SINGLE
+import com.yehia.calendardaterangepicker.customviews.CalendarDateRangeManager
+import com.yehia.calendardaterangepicker.customviews.CalendarDateRangeManager.DateSelectionState
+import com.yehia.calendardaterangepicker.customviews.CalendarDateRangeManagerImpl
+import com.yehia.calendardaterangepicker.customviews.InvalidDateException
+import com.yehia.calendardaterangepicker.customviews.isDateSame
+import com.yehia.calendardaterangepicker.customviews.isMonthSame
+import com.yehia.calendardaterangepicker.customviews.printDate
+import com.yehia.calendardaterangepicker.models.CalendarStyleAttributes
+import com.yehia.calendardaterangepicker.models.CalendarStyleAttributes.DateSelectionMode.FIXED_RANGE
+import com.yehia.calendardaterangepicker.models.CalendarStyleAttributes.DateSelectionMode.FREE_RANGE
+import com.yehia.calendardaterangepicker.models.CalendarStyleAttributes.DateSelectionMode.SINGLE
 import org.junit.Assert
 import org.junit.Before
 import org.junit.Test
