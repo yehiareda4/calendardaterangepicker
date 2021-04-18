@@ -9,7 +9,7 @@
     <com.archit.calendardaterangepicker.customviews.CustomTextView
         android:id="@+id/dayOfMonthText"
         style="@style/DayOfMonthStyle"
-        android:text="0" />
+        android:text="@string/_0" />
 
 </merge>
 
