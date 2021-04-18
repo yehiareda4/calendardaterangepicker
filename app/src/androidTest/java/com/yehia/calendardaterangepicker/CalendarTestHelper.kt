@@ -8,7 +8,6 @@ import com.yehia.calendardaterangepicker.R.id
 import com.yehia.calendardaterangepicker.customviews.CustomDateView
 import org.hamcrest.BaseMatcher
 import org.hamcrest.Description
-import org.hamcrest.Matcher
 import java.util.Calendar
 
 fun clickOnRightNavigationArrow(times: Int = 1) {
